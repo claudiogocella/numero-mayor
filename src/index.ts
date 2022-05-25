@@ -9,7 +9,7 @@ let rotulo3 = document.getElementById("rotulo3");
 let btnenviar = document.getElementById("enviar");
 
 rotulo1.innerHTML="ingrese el primer numero";
-rotulo2.innerHTML="ingrese el segundo  numero";
+rotulo2.innerHTML="ingrese el segundo numero";
 rotulo3.innerHTML="ingrese el tercer numero";
 
 btnenviar.addEventListener("click", ()=>{
